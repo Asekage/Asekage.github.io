@@ -6,12 +6,12 @@
         "sha256_cert_fingerprints": ["C8:9B:2F:28:87:C8:1F:F4:AF:6E:38:CE:B4:70:B8:94:9D:3D:DC:45:39:EA:9B:D3:E7:74:BC:A7:49:D2:43:28"]
       }
     },
-      {
+   {
       "relation": ["delegate_permission/common.handle_all_urls"],
       "target": {
         "namespace": "android_app",
-        "package_name": "io.github.asekage.twa",
-        "sha256_cert_fingerprints": ["AD:7E:60:15:FF:8A:60:14:60:BE:17:C7:55:90:2C:3E:20:1A:B0:92:6E:BC:62:82:8E:A2:3A:A8:92:07:5D:D3"]
+        "package_name": "com.asekage.chocolatitos",
+        "sha256_cert_fingerprints": ["B5:D1:FF:59:8A:10:2C:D4:F5:FA:11:05:30:CF:E8:D2:80:F1:63:F0:C0:60:7A:96:12:7B:31:E3:7F:23:60:4D"]
       }
     }]
 
