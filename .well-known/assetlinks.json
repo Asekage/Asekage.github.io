@@ -13,5 +13,14 @@
         "package_name": "com.asekage.chocolatitos",
         "sha256_cert_fingerprints": ["B3:CA:70:A8:FB:F8:89:BD:9B:DF:6D:3F:A0:79:0C:9B:76:80:3A:27:D7:88:C9:A2:0B:D6:DD:90:A4:60:DE:5F"]
       }
+    },
+      {
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.asekage.conducto360",
+        "sha256_cert_fingerprints": ["D4:EA:32:77:D7:45:9F:30:4A:F0:CD:D6:EB:1B:02:48:69:42:B2:80:3F:1F:40:15:DE:1F:B6:87:34:95:73:28"]
+      }
     }]
+
 
