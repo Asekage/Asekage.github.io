@@ -11,7 +11,7 @@
       "target": {
         "namespace": "android_app",
         "package_name": "com.asekage.chocolatitos",
-        "sha256_cert_fingerprints": ["B3:CA:70:A8:FB:F8:89:BD:9B:DF:6D:3F:A0:79:0C:9B:76:80:3A:27:D7:88:C9:A2:0B:D6:DD:90:A4:60:DE:5F"]
+        "sha256_cert_fingerprints": ["CA:40:B5:17:66:43:59:FB:33:00:CB:07:F0:4E:88:74:38:38:AC:2A:CE:8B:21:A9:84:16:E1:D2:55:1A:D1:7F"]
       }
     },
       {
