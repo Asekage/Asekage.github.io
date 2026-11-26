@@ -21,6 +21,15 @@
         "package_name": "com.asekage.conducto360",
         "sha256_cert_fingerprints": ["D4:EA:32:77:D7:45:9F:30:4A:F0:CD:D6:EB:1B:02:48:69:42:B2:80:3F:1F:40:15:DE:1F:B6:87:34:95:73:28"]
       }
+    },
+      [{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.asekage.cosmiccrystal",
+        "sha256_cert_fingerprints": ["AD:6F:88:BE:1A:05:AA:7B:AC:A5:CB:6D:06:88:49:3C:8E:1E:F5:1C:CA:48:04:D0:7A:06:07:C5:10:A8:26:67"]
+      }
     }]
+
 
 
